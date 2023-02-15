@@ -50,7 +50,7 @@ _Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
 ##### Published/Accepted
 
 * [Faster Randomized Interior Point Methods for Tall/Wide Linear Programs](https://arxiv.org/pdf/2209.08722.pdf)\
-To Appear in JMLR\
+JMLR\
 _Agniva Chowhdury, **Gregory Dexter**, Palma London, Haim Avron, and Petros Drineas_
 
 
