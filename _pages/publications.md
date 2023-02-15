@@ -31,10 +31,18 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 Under Review\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
-* Improved Feature Extraction for High-Dimensional Generalized Linear Models via
-Sketching\
+* Sublinear Time Deterministic Algorithms for Spectral Approximation\
 Under Review\
-_**Gregory Dexter**, Jawad Raheel, Rajiv Khanna, and Petros Drineas_
+🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
+
+* Sketching for Logistic Regression\
+Under Review\
+_**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
+
+* MaSk-LMM: A Matrix Sketching Framework for Linear Mixed Models in Association Studies\
+Under Review\
+_Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
+
 
 
 
