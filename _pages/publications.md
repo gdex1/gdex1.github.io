@@ -26,16 +26,11 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 🔸 - Denotes alphabetical author order
 
 ##### Under Review/In Preparation
-
-* [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
-Under Review\
-🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
-
-* Sublinear Time Deterministic Algorithms for Spectral Approximation\
+* [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
 Under Review\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
 
-* Sketching for Logistic Regression\
+* [Feature Space Sketching for Logistic Regression](https://arxiv.org/abs/2303.14284.pdf)\
 Under Review\
 _**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
 
@@ -48,6 +43,9 @@ _Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
 
 
 ##### Published/Accepted
+* [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
+To appear at ICALP 2023\
+🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
 * [Faster Randomized Interior Point Methods for Tall/Wide Linear Programs](https://arxiv.org/pdf/2209.08722.pdf)\
 JMLR\
