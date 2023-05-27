@@ -26,6 +26,10 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 🔸 - Denotes alphabetical author order
 
 ##### Under Review/In Preparation
+* Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming\
+Under Review\
+🔸 _Gregory Dexter, Petros Drineas, David Woodruff, and Taisuke Yasuda_
+
 * [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
 Under Review\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
