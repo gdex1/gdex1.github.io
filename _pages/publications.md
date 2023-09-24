@@ -26,9 +26,15 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 🔸 - Denotes alphabetical author order
 
 ##### Under Review/In Preparation
-* Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming\
+
+* A Precise Characterization of SGD Stability Using Loss Surface Geometry\
 Under Review\
-🔸 _Gregory Dexter, Petros Drineas, David Woodruff, and Taisuke Yasuda_
+_**Gregory Dexter**, Borja Ocejo, Rajiv Khanna, Aman Gupta, Ayan Acharya, Sathiya Keerthi_
+
+* mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization\
+Under Review\
+Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
+Khanna, David Durfee, Rahul Mazumder
 
 * [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
 Under Review\
@@ -47,8 +53,12 @@ _Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
 
 
 ##### Published/Accepted
+* Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming\
+To Appear at NeurIPS 2023\
+🔸 _Gregory Dexter, Petros Drineas, David Woodruff, and Taisuke Yasuda_
+
 * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
-To appear at ICALP 2023\
+ICALP 2023\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
 * [Faster Randomized Interior Point Methods for Tall/Wide Linear Programs](https://arxiv.org/pdf/2209.08722.pdf)\
