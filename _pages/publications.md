@@ -36,10 +36,6 @@ Under Review\
 Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
 Khanna, David Durfee, Rahul Mazumder
 
-* [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
-Under Review\
-🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
-
 * [Feature Space Sketching for Logistic Regression](https://arxiv.org/abs/2303.14284.pdf)\
 Under Review\
 _**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
@@ -51,10 +47,13 @@ _Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
 
 
 
-
 ##### Published/Accepted
-* Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming\
-To Appear at NeurIPS 2023\
+* [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
+To appear at ITCS 2024\
+🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
+
+* [Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming](https://arxiv.org/abs/2310.19068)\
+NeurIPS 2023\
 🔸 _Gregory Dexter, Petros Drineas, David Woodruff, and Taisuke Yasuda_
 
 * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
