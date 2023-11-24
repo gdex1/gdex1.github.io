@@ -31,7 +31,7 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 Under Review\
 _**Gregory Dexter**, Borja Ocejo, Rajiv Khanna, Aman Gupta, Ayan Acharya, Sathiya Keerthi_
 
-* mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization\
+* [mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization](https://arxiv.org/abs/2302.09693)\
 Under Review\
 Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
 Khanna, David Durfee, Rahul Mazumder
@@ -40,7 +40,7 @@ Khanna, David Durfee, Rahul Mazumder
 Under Review\
 _**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
 
-* MaSk-LMM: A Matrix Sketching Framework for Linear Mixed Models in Association Studies\
+* [MaSk-LMM: A Matrix Sketching Framework for Linear Mixed Models in Association Studies](https://www.medrxiv.org/content/10.1101/2023.11.13.23298469v1)\
 Under Review\
 _Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
 
