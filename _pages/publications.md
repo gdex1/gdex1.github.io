@@ -27,29 +27,27 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 
 ##### Under Review/In Preparation
 
-* A Precise Characterization of SGD Stability Using Loss Surface Geometry\
-Under Review\
-_**Gregory Dexter**, Borja Ocejo, Rajiv Khanna, Aman Gupta, Ayan Acharya, Sathiya Keerthi_
-
 * [mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization](https://arxiv.org/abs/2302.09693)\
 Under Review\
 Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
-Khanna, David Durfee, Rahul Mazumder
+Khanna, David Durfee, and Rahul Mazumder
 
 * [Feature Space Sketching for Logistic Regression](https://arxiv.org/abs/2303.14284.pdf)\
 Under Review\
 _**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
 
-* [MaSk-LMM: A Matrix Sketching Framework for Linear Mixed Models in Association Studies](https://www.medrxiv.org/content/10.1101/2023.11.13.23298469v1)\
-Under Review\
-_Myson Burch, Aritra Bose, Laxmi Parida, **Gregory Dexter** and Petros Drineas_
-
-
-
 
 ##### Published/Accepted
+* [A Precise Characterization of SGD Stability Using Loss Surface Geometry](https://arxiv.org/abs/2401.12332)\
+To appear at ICLR 2024 \
+_**Gregory Dexter**, Borja Ocejo, Sathiya Keerthi, Aman Gupta, Ayan Acharya, Rajiv Khanna_
+
+* [MaSk-LMM: A Matrix Sketching Framework for Linear Mixed Models in Association Studies](https://www.medrxiv.org/content/10.1101/2023.11.13.23298469v1)\
+To appear at RECOMB 2024\
+_Myson Burch, Aritra Bose, **Gregory Dexter**, Laxmi Parida, and Petros Drineas_
+
 * [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
-To appear at ITCS 2024\
+ITCS 2024 / To appear in Algorithmica\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
 
 * [Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming](https://arxiv.org/abs/2310.19068)\
