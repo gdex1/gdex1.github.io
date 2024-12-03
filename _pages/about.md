@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at Purdue University, advised by [Professor Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/) and [Professor Rajiv Khanna](https://rjvak7.github.io/). My research focuses on the development and analysis of efficient randomized algorithms for problems in optimization, numerical linear algebra, and machine learning.
+I am a research scientist in the optimization team at LinkedIn, where I focus on reinforcement learning for recommender systems, optimization-based methods for compute resource allocation, and improving LLM inference efficiency.
 
-Broadly speaking, my PhD research is focused on *practical theory*: theoretical analysis pertaining to methods showing strong empirical performance with the goal of deriving insights for direct improvement.  In the future, I aim to find a position where I can leverage my gained mathematical knowledge and intuition to solve challenging real-world problems.
+I completed my PhD at Purdue University under the supervision of [Professor Petros Drineas](https://www.cs.purdue.edu/homes/pdrineas/) and [Professor Rajiv Khanna](https://rjvak7.github.io/). My doctoral research centered on theoretical topics in optimization and randomized matrix algorithms with applications to machine learning.
