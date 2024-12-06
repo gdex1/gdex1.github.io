@@ -24,7 +24,7 @@ author_profile: true
 
 ##### Tutorials
 * [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://www.linkedin.com/posts/aman-gupta1_ai-llms-efficientalgorithms-activity-7270625387280293891-mvPS?utm_source=share&utm_medium=member_desktop)\
-To appear WWW 2025 \
+To appear at WWW 2025 \
 🔸 _Kayhan Behdin, Yun Dai, Gregory Dexter, Aman Gupta, Rahul Mazumder, Ankan Saha, Qingquan Song, Shao Tang, Sirou Zhu, Pin-Lun (Byron) Hsu_
 
 
