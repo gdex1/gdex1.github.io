@@ -16,38 +16,37 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
  -->
- 
-My current research often considers problems related to *Randomized Numerical Linear Algebra* (RandNLA).  This area can be regarded as a fusion between more theoretically oriented fields, such as random matrix theory and matrix perturbation theory, with the more practice-oriented field of numerical linear algebra.  This area thoroughly captures my goal of studying practical theory.  I spend my time learning about mathematically elegant results, such as establishing [matrix concentration inequalities](https://arxiv.org/pdf/1501.01571.pdf) via the matrix Laplace transform, and then use the consequences of these results to develop new approaches to ubiquitous computational problems, such as linear optimization.
 
-Prior to starting my PhD, I carried out research in the field of Health Informatics, working with researchers at Regenstrief Institute.  While doing so, I asked (and partially answered) questions related to the deployment of machine learning in healthcare.  This was an excellent experience, as it emphasized the systems-level challenges (e.g. data privacy, bureaucratic inertia, formatting standards) to effectively using the algorithms we develop to solve end-use problems.   
 
 
 
 🔸 - Denotes alphabetical author order
 
-##### Under Review/In Preparation
-
-* [mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization](https://arxiv.org/abs/2302.09693)\
-Under Review\
-Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
-Khanna, David Durfee, and Rahul Mazumder
-
-* [Feature Space Sketching for Logistic Regression](https://arxiv.org/abs/2303.14284.pdf)\
-Under Review\
-_**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
+##### Tutorials
+* [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://www.linkedin.com/posts/aman-gupta1_ai-llms-efficientalgorithms-activity-7270625387280293891-mvPS?utm_source=share&utm_medium=member_desktop)\
+To appear WWW 2025 \
+🔸 _Kayhan Behdin, Yun Dai, Gregory Dexter, Aman Gupta, Rahul Mazumder, Ankan Saha, Qingquan Song, Shao Tang, Sirou Zhu, Pin-Lun (Byron) Hsu_
 
 
 ##### Published/Accepted
+* [Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices](https://arxiv.org/abs/2403.12278)\
+To appear in SIAM Journal on Matrix Analysis and Applications \
+_**Gregory Dexter**, Christos Boutsikas, Linkai Ma, Ilse C.F. Ipsen, Petros Drineas_
+
+* [The Space Complexity of Approximating Logistic Loss](https://arxiv.org/abs/2412.02639)\
+NeurIPS 2024 \
+_**Gregory Dexter**, Petros Drineas, Rajiv Khanna_
+
 * [A Precise Characterization of SGD Stability Using Loss Surface Geometry](https://arxiv.org/abs/2401.12332)\
-To appear at ICLR 2024 \
+ICLR 2024 \
 _**Gregory Dexter**, Borja Ocejo, Sathiya Keerthi, Aman Gupta, Ayan Acharya, Rajiv Khanna_
 
 * [MaSk-LMM: A Matrix Sketching Framework for Linear Mixed Models in Association Studies](https://www.medrxiv.org/content/10.1101/2023.11.13.23298469v1)\
-To appear at RECOMB 2024\
+RECOMB 2024 / Genome Research\
 _Myson Burch, Aritra Bose, **Gregory Dexter**, Laxmi Parida, and Petros Drineas_
 
-* [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/pdf/2305.05826.pdf)\
-ITCS 2024 / To appear in Algorithmica\
+* [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/abs/2305.05826)\
+ITCS 2024 / Algorithmica\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
 
 * [Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming](https://arxiv.org/abs/2310.19068)\
@@ -75,6 +74,17 @@ _**Gregory Dexter**, Kevin Bello, and Jean Honorio_
 * [Randomized linear algebra approaches to estimate the von neumann entropy of density matrices](https://arxiv.org/pdf/1801.01072)\
 IEEE Transactions on Information Theory (2020)\
 _Eugenia-Maria Kontopoulou, **Gregory Dexter**, Wojciech Szpankowski, Ananth Grama, and Petros Drineas_
+
+##### Preprints
+
+* [mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization](https://arxiv.org/abs/2302.09693)\
+Under Review\
+Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
+Khanna, David Durfee, and Rahul Mazumder
+
+* [Feature Space Sketching for Logistic Regression](https://arxiv.org/abs/2303.14284.pdf)\
+Under Review\
+_**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
 
 ### Health Informatics Research
 * [Generative Adversarial Networks for Creating Synthetic Free-Text Medical Data: A Proposal for Collaborative Research and Re-use of Machine Learning Models](https://pubmed.ncbi.nlm.nih.gov/34457148/)\
