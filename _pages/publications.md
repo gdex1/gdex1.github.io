@@ -22,15 +22,29 @@ author_profile: true
 
 🔸 - Denotes alphabetical author order
 
-##### Tutorials
-* [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://www.linkedin.com/posts/aman-gupta1_ai-llms-efficientalgorithms-activity-7270625387280293891-mvPS?utm_source=share&utm_medium=member_desktop)\
-To appear at WWW 2025 \
-🔸 _Kayhan Behdin, Yun Dai, Gregory Dexter, Aman Gupta, Rahul Mazumder, Ankan Saha, Qingquan Song, Shao Tang, Sirou Zhu, Pin-Lun (Byron) Hsu_
+##### Under Review
+
+* [Effective Quantization of Muon Optimizer States](https://www.arxiv.org/pdf/2509.23106)\
+Under Review \
+🔸 _D.T. Braithwaite, Rafael Celente, Gregory Dexter, Aman Gupta, S. Sathiya Keerthi, Rohan Ramanath, Abhishek Shivanna, Daniel Silva, Shao Tang, Hiroto Udagawa_
 
 
 ##### Published/Accepted
+
+* [LLM Query Scheduling with Prefix Reuse and Latency Constraints](https://arxiv.org/pdf/2502.04677)\
+To appear at NeurIPS 2025 \
+_**Gregory Dexter**, Shao Tang, Ata Fatahi Baarzi, Qingquan Song, Tejas Dharamsi, Aman Gupta_
+
+* Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems\
+To appear at EMNLP 2025 (Oral) \
+_Kayhan Behdin , Ata Fatahibaarzi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang, Hejian Sang, Shao Tang, **Gregory Dexter**, Sirou Zhu, Siyu Zhu, Tejas Dharamsi, Vignesh Kothapalli, Zhoutong Fu, Yihan Cao, Pin-Lun Hsu, Fedor Borisyuk, Natesh S. Pillai, Luke Simon, Rahul Mazumder_
+
+* [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://www.linkedin.com/posts/aman-gupta1_ai-llms-efficientalgorithms-activity-7270625387280293891-mvPS?utm_source=share&utm_medium=member_desktop)\
+Appeared as a Tutorial at WWW 2025 \
+🔸 _Kayhan Behdin, Yun Dai, Gregory Dexter, Aman Gupta, Rahul Mazumder, Ankan Saha, Qingquan Song, Shao Tang, Sirou Zhu, Pin-Lun (Byron) Hsu_
+
 * [Stochastic Rounding Implicitly Regularizes Tall-and-Thin Matrices](https://arxiv.org/abs/2403.12278)\
-To appear in SIAM Journal on Matrix Analysis and Applications \
+SIAM Journal on Matrix Analysis and Applications \
 _**Gregory Dexter**, Christos Boutsikas, Linkai Ma, Ilse C.F. Ipsen, Petros Drineas_
 
 * [The Space Complexity of Approximating Logistic Loss](https://arxiv.org/abs/2412.02639)\
