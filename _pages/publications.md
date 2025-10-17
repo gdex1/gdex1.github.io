@@ -39,7 +39,7 @@ _**Gregory Dexter**, Shao Tang, Ata Fatahi Baarzi, Qingquan Song, Tejas Dharamsi
 To appear at EMNLP 2025 (Oral) \
 _Kayhan Behdin , Ata Fatahibaarzi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang, Hejian Sang, Shao Tang, **Gregory Dexter**, Sirou Zhu, Siyu Zhu, Tejas Dharamsi, Vignesh Kothapalli, Zhoutong Fu, Yihan Cao, Pin-Lun Hsu, Fedor Borisyuk, Natesh S. Pillai, Luke Simon, Rahul Mazumder_
 
-* [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://www.linkedin.com/posts/aman-gupta1_ai-llms-efficientalgorithms-activity-7270625387280293891-mvPS?utm_source=share&utm_medium=member_desktop)\
+* [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3701716.3715868)\
 Appeared as a Tutorial at WWW 2025 \
 🔸 _Kayhan Behdin, Yun Dai, Gregory Dexter, Aman Gupta, Rahul Mazumder, Ankan Saha, Qingquan Song, Shao Tang, Sirou Zhu, Pin-Lun (Byron) Hsu_
 
