@@ -35,7 +35,7 @@ Under Review \
 To appear at NeurIPS 2025 \
 _**Gregory Dexter**, Shao Tang, Ata Fatahi Baarzi, Qingquan Song, Tejas Dharamsi, Aman Gupta_
 
-* Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems\
+* [Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems](https://aclanthology.org/2025.emnlp-industry.119.pdf)\
 To appear at EMNLP 2025 (Oral) \
 _Kayhan Behdin , Ata Fatahibaarzi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang, Hejian Sang, Shao Tang, **Gregory Dexter**, Sirou Zhu, Siyu Zhu, Tejas Dharamsi, Vignesh Kothapalli, Zhoutong Fu, Yihan Cao, Pin-Lun Hsu, Fedor Borisyuk, Natesh S. Pillai, Luke Simon, Rahul Mazumder_
 
