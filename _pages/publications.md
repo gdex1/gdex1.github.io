@@ -23,20 +23,23 @@ author_profile: true
 🔸 - Denotes alphabetical author order
 
 ##### Under Review
-
-* [Effective Quantization of Muon Optimizer States](https://www.arxiv.org/pdf/2509.23106)\
-Under Review \
-🔸 _D.T. Braithwaite, Rafael Celente, Gregory Dexter, Aman Gupta, S. Sathiya Keerthi, Rohan Ramanath, Abhishek Shivanna, Daniel Silva, Shao Tang, Hiroto Udagawa_
+* [Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization](https://arxiv.org/abs/2610.12444)\
+Under review \
+_Hanyang Li, Shao Tang, Daniel Thomas Braithwaite, **Gregory Dexter**, Leonardo Neves, Aman Gupta, Hiroto Udagawa, Abhishek Shivanna, Daniel Silva, Rohan Ramanath_
 
 
 ##### Published/Accepted
 
+* [Effective Quantization of Muon Optimizer States](https://www.arxiv.org/pdf/2509.23106)\
+ICLR 2026 SPOT Workshop \
+🔸 _D.T. Braithwaite, Rafael Celente, Gregory Dexter, Aman Gupta, S. Sathiya Keerthi, Rohan Ramanath, Abhishek Shivanna, Daniel Silva, Shao Tang, Hiroto Udagawa_
+
 * [LLM Query Scheduling with Prefix Reuse and Latency Constraints](https://arxiv.org/pdf/2502.04677)\
-To appear at NeurIPS 2025 \
+NeurIPS 2025 \
 _**Gregory Dexter**, Shao Tang, Ata Fatahi Baarzi, Qingquan Song, Tejas Dharamsi, Aman Gupta_
 
 * [Scaling Down, Serving Fast: Compressing and Deploying Efficient LLMs for Recommendation Systems](https://aclanthology.org/2025.emnlp-industry.119.pdf)\
-To appear at EMNLP 2025 (Oral) \
+EMNLP 2025 (Oral) \
 _Kayhan Behdin , Ata Fatahibaarzi, Qingquan Song, Yun Dai, Aman Gupta, Zhipeng Wang, Hejian Sang, Shao Tang, **Gregory Dexter**, Sirou Zhu, Siyu Zhu, Tejas Dharamsi, Vignesh Kothapalli, Zhoutong Fu, Yihan Cao, Pin-Lun Hsu, Fedor Borisyuk, Natesh S. Pillai, Luke Simon, Rahul Mazumder_
 
 * [Efficient algorithms for leveraging LLMs for Generative and Predictive Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3701716.3715868)\
@@ -59,16 +62,16 @@ _**Gregory Dexter**, Borja Ocejo, Sathiya Keerthi, Aman Gupta, Ayan Acharya, Raj
 RECOMB 2024 / Genome Research\
 _Myson Burch, Aritra Bose, **Gregory Dexter**, Laxmi Parida, and Petros Drineas_
 
-* [Sublinear Time Deterministic Algorithms for Spectral Approximation](https://arxiv.org/abs/2305.05826)\
-ITCS 2024 / Algorithmica\
-🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, and David Woodruff_
+* [Universal Matrix Sparsifiers and Fast Deterministic Algorithms for Linear Algebra](https://arxiv.org/abs/2305.05826)\
+ITCS 2024\
+🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Cameron Musco, Archan Ray, Sushant Sachdeva, and David Woodruff_
 
 * [Sketching Algorithms for Sparse Dictionary Learning: PTAS and Turnstile Streaming](https://arxiv.org/abs/2310.19068)\
 NeurIPS 2023\
 🔸 _Gregory Dexter, Petros Drineas, David Woodruff, and Taisuke Yasuda_
 
 * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
-ICALP 2023\
+ICALP 2023 / Algorithmica\
 🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
 * [Faster Randomized Interior Point Methods for Tall/Wide Linear Programs](https://arxiv.org/pdf/2209.08722.pdf)\
@@ -91,13 +94,21 @@ _Eugenia-Maria Kontopoulou, **Gregory Dexter**, Wojciech Szpankowski, Ananth Gra
 
 ##### Preprints
 
+* [Large-Scale Regularized Matching on GPU Clusters](https://arxiv.org/abs/2606.07777)\
+Preprint \
+_Aida Rahmattalabi, **Gregory Dexter**, Sanjana Garg, Qinquan Song, Shenyinying Tu, Yuan Gao, Zhipeng Wang, Rahul Mazumder_
+
+* [DuaLip-GPU Technical Report](https://arxiv.org/abs/2603.04621)\
+Technical Report \
+_**Gregory Dexter**, Aida Rahmattalabi, Sanjana Garg, Qinquan Song, Ruby Tu, Yuan Gao, Yi Zhang, Zhipeng Wang, Rahul Mazumder_
+
 * [mSAM: Micro-Batch-Averaged Sharpness-Aware Minimization](https://arxiv.org/abs/2302.09693)\
-Under Review\
+Preprint\
 Kayhan Behdin, Qingquan Song, Aman Gupta, Sathiya Keerthi, Ayan Acharya, Borja Ocejo Elizondo, **Gregory Dexter**, Rajiv
 Khanna, David Durfee, and Rahul Mazumder
 
 * [Feature Space Sketching for Logistic Regression](https://arxiv.org/abs/2303.14284.pdf)\
-Under Review\
+Preprint \
 _**Gregory Dexter**, Rajiv Khanna, Jawad Raheel, and Petros Drineas_
 
 ### Health Informatics Research
